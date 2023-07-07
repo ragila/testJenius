@@ -1,9 +1,20 @@
-# Base dependencies
-axios for networking.
-react-native-config to manage envionments.
-redux for state management.
-redux-thunk to dispatch asynchronous actions.
-jest and react-native-testing-library for testing.
+# jenius-contact-app
+React Native project using Redux &amp; typescript
+
+## Prerequisites
+
+- [Node.js > 12](https://nodejs.org) and npm)
+- [Watchman](https://facebook.github.io/watchman)
+- [Xcode](https://developer.apple.com/xcode)
+- [Android Studio and Android SDK](https://developer.android.com/studio)
+
+## Base dependencies
+
+- [axios](https://github.com/axios/axios) for networking.
+- [react-native-config](https://github.com/luggit/react-native-config) to manage envionments.
+- [redux](https://redux.js.org/) for state management.
+- [redux-thunk](https://github.com/gaearon/redux-thunk) to dispatch asynchronous actions.
+- [jest](https://facebook.github.io/jest/) and [react-native-testing-library](https://callstack.github.io/react-native-testing-library/) for testing.
 
 
 ## Getting Started
