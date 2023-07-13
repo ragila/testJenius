@@ -1,3 +1,11 @@
 {
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "jsx": "react",
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "dist"
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }
